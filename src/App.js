@@ -47,7 +47,7 @@ const App = () => {
         <div className='text-center m-3'>
           <h4 className='text-center'><span className='text-danger'>BUHARI</span> COUNTDOWN</h4>
           <p className='mt-5'>We count down to the worst leadership that this great nation Nigeria has ever had.</p>
-          <p>We count down to <span className='text-warning font-weight-bold'>Thursday, 24 February 2023</span>, when we hope h hands over power, so we can rest, from arson, killings, tyranny, marginalization, bad policies, injustice, and corruption of this government. We hope and pray that his kind never return anymore</p>
+          <p>We count down to <span className='text-warning font-weight-bold'>Thursday, 24 February 2023</span>, when we hope he hands over power, so we can rest, from arson, killings, tyranny, marginalization, bad policies, injustice, and corruption of this government. We hope and pray that his kind never return anymore</p>
           <p className=''>Nigeria deserves better!</p>
         </div>
         <div>
