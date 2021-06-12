@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-size: 100%;
+  background-image: url(./bubu1.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  color: white;
+  width: 100vw;
+  height: 120vh;
+}
+
