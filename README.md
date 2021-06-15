@@ -1,1 +1,1 @@
-An app for Nigerian to markdown on the dictatorship government of Buhari
+https://buhari-countdown.herokuapp.com/
